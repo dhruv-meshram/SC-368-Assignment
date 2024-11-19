@@ -1,0 +1,98 @@
+.secton{
+    background-color: rgba(17, 24, 39);
+    color: rgba(156, 163, 175);
+}
+
+.body{
+    background-color: rgb(51, 196, 148);
+}
+
+.readbutton {
+    background-color: #43b44a; 
+    
+    color: white; 
+    padding: 10px 15px; 
+    text-align: center; 
+    
+    
+    font-size: 16px; 
+    margin: 5px 5px; 
+    cursor:auto; 
+    border-radius: 8px; 
+    transition: background-color 0.3s ease; 
+}
+
+.readbutton:hover{
+    background-color: #3f5d31;
+    transition: ease 1;
+}
+
+.loginbutton{
+    background-color: rgb(70, 63, 168);
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+    font-size: 18px;
+    text-align: center;
+    margin: 5px 5px;
+    border-radius: 10px;
+
+}
+
+.createbutton{
+    padding: 5px;
+    background-color: rgb(70, 63, 168) ;
+    color: white;
+    padding: 10px 10px;
+    font-size: 18px;
+    text-align: center;
+    margin: 5px 5px;
+    border-radius: 10px;
+    float: right;
+    margin-left: 780px;
+    
+}
+
+.createbutton:hover{
+    background-color: #3f5d31;
+    transition: ease 1, ;
+}
+
+.navbarr{
+    background-image: url('subtle-cinematics-KEI-VNDi0_g-unsplash.jpg');
+}
+.blogwebname{
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.homebutton{
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+
+}
+
+.homebutton:hover{
+    transition: ease 1;
+    color:rgb(70, 63, 168)
+
+}
+
+
+.blogsbutton{
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+
+}
+
+.blogsbutton:hover{
+    color:rgb(70, 63, 168);
+
+}

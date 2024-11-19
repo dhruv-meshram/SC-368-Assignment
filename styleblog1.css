@@ -1,0 +1,63 @@
+.secton{
+    background-color: rgba(17, 24, 39);
+    color: rgba(156, 163, 175);
+
+}
+
+.loginbutton{
+    background-color: rgb(70, 63, 168);
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+    font-size: 18px;
+    text-align: center;
+    margin: 5px 5px;
+    border-radius: 10px;
+
+}
+
+.learnauthor{
+    cursor: pointer;
+}
+
+.title{
+    font-weight: px;
+    font-size: 20px;
+}
+
+.navbarr{
+    background-image: url('subtle-cinematics-KEI-VNDi0_g-unsplash.jpg');
+}
+
+.homebutton{
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+
+}
+.blogwebname{
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.homebutton:hover{
+    transition: ease 1;
+    color:rgb(70, 63, 168)
+
+}
+.blogsbutton{
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+
+}
+
+.blogsbutton:hover{
+    color:rgb(70, 63, 168);
+
+}
