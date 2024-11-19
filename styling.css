@@ -1,12 +1,11 @@
 body {
-     /* Image stored in the same folder */
-    background-size: cover;  /* Ensures the image covers the entire body */
-    background-position: center;  /* Centers the image */
-    background-attachment: fixed;  /* Keeps the background image fixed while scrolling */
+         background-size: cover;  
+    background-position: center;  
+    background-attachment: fixed;  
     margin: 0;
-    height: 100vh;  /* Full viewport height */
+    height: 100vh;  
     font-family: Arial, sans-serif;
-    color: white;  /* Text color to contrast against the background */
+    color: white;  
 }
 .secton{
     background-image: url('subtle-cinematics-KEI-VNDi0_g-unsplash.jpg');
